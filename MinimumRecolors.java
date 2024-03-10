@@ -70,7 +70,7 @@ public class MinimumRecolors {
             }
 
         }
-        return cnt;
+        return ans;
     }
 
 }
